@@ -8,7 +8,7 @@ This repository contains my undergraduate genetics research project investigatin
 
 ## Research Design
 - Cross-sectional study
-- Sample size: 380 university students
+- Sample size: 374 university students
 - Data analysis using SPSS
 
 ## Skills Demonstrated
